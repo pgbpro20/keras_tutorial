@@ -1,0 +1,5 @@
+*.h5
+imdb/
+.ipynb_checkpoints/
+dogs-vs-cats/
+glove/
